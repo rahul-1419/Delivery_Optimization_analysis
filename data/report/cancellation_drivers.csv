@@ -1,0 +1,4 @@
+factor,test,statistic,p_value,effect_size_cramers_v,significant,relationship
+State,Chi-square,47.7131,0.00583,0.0219,True,Varies by state
+Order Value,Point-biserial correlation,0.0224,0.0,,True,Positive
+Item Count,Point-biserial correlation,0.0043,0.174494,,False,Positive

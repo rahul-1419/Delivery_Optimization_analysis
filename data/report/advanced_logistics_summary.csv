@@ -1,0 +1,5 @@
+analysis,key_finding,statistical_evidence
+Delivery Performance,"6,535 of 96,476 delivered orders were late",Avg duration: on-time 10.9 days vs late 33.9 days
+SLA Zones,6 states classified as Critical Zone (high cancellation + high late delivery),"Thresholds: cancellation > median, late-rate > median"
+Revenue Risk (Pareto),Top 3 states account for 64.7% of total revenue at risk; 6 states account for ~80%,—
+Cancellation Drivers,"State, order value, and item count were tested as cancellation-related factors","State p=0.0058, Order Value p=0.0000, Item Count p=0.1745"

@@ -1,0 +1,24 @@
+rank,state_code,state_name,revenue_at_risk,pct_of_total,cumulative_pct
+1,SP,Sao Paulo,37788.93,39.68,39.68
+2,RJ,Rio de Janeiro,12169.35,12.78,52.46
+3,MG,Minas Gerais,11640.84,12.22,64.68
+4,RS,Rio Grande do Sul,7494.34,7.87,72.55
+5,GO,Goias,6721.49,7.06,79.61
+6,PR,Parana,6200.7,6.51,86.12
+7,BA,Bahia,4241.16,4.45,90.57
+8,SC,Santa Catarina,1975.06,2.07,92.64
+9,DF,Distrito Federal,1717.49,1.8,94.44
+10,ES,Espirito Santo,1505.18,1.58,96.02
+11,PE,Pernambuco,1048.09,1.1,97.12
+12,CE,Ceara,990.65,1.04,98.16
+13,PB,Paraiba,393.98,0.41,98.57
+14,MA,Maranhao,356.6,0.37,98.94
+15,PI,Piaui,253.99,0.27,99.21
+16,TO,Tocantins,213.75,0.22,99.43
+17,MT,Mato Grosso,140.0,0.15,99.58
+18,PA,Para,126.69,0.13,99.71
+19,RO,Rondonia,109.0,0.11,99.82
+20,RR,Roraima,89.99,0.09,99.91
+21,MS,Mato Grosso do Sul,57.99,0.06,99.97
+22,SE,Sergipe,0.0,0.0,99.97
+23,AL,Alagoas,0.0,0.0,99.97

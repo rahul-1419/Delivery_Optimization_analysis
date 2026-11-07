@@ -1,0 +1,2 @@
+total_orders,delivered_orders,cancelled_orders,delivered_on_time,delivered_late,avg_fulfillment_duration_on_time,avg_fulfillment_duration_late,overall_cancellation_rate,note
+99441,96476,625,89941,6535,10.9,33.9,0.63,"Cancelled orders have no delivery date, so lateness is undefined for them and excluded here."

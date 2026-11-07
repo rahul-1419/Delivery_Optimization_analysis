@@ -1,0 +1,28 @@
+state_code,state_name,total_orders,cancellation_rate,late_delivery_rate,sla_zone,cancellation_threshold,late_delivery_threshold
+RR,Roraima,46,2.17,12.2,Critical Zone,0.44,9.6
+PI,Piaui,495,0.81,13.87,Critical Zone,0.44,9.6
+RJ,Rio de Janeiro,12852,0.67,12.1,Critical Zone,0.44,9.6
+MA,Maranhao,747,0.54,17.43,Critical Zone,0.44,9.6
+CE,Ceara,1336,0.52,13.76,Critical Zone,0.44,9.6
+BA,Bahia,3380,0.47,12.16,Critical Zone,0.44,9.6
+RO,Rondonia,253,1.19,2.88,Customer Risk Zone,0.44,9.6
+SP,Sao Paulo,41746,0.78,4.49,Customer Risk Zone,0.44,9.6
+GO,Goias,2020,0.64,6.54,Customer Risk Zone,0.44,9.6
+MG,Minas Gerais,11635,0.55,4.58,Customer Risk Zone,0.44,9.6
+SC,Santa Catarina,3637,0.52,8.2,Customer Risk Zone,0.44,9.6
+RS,Rio Grande do Sul,5466,0.46,6.08,Customer Risk Zone,0.44,9.6
+PR,Parana,5045,0.44,4.04,Healthy Zone,0.44,9.6
+DF,Distrito Federal,2140,0.33,5.67,Healthy Zone,0.44,9.6
+PE,Pernambuco,1652,0.3,9.6,Healthy Zone,0.44,9.6
+MT,Mato Grosso,907,0.22,5.98,Healthy Zone,0.44,9.6
+AC,Acre,81,0.0,3.75,Healthy Zone,0.44,9.6
+AM,Amazonas,148,0.0,2.76,Healthy Zone,0.44,9.6
+AP,Amapa,68,0.0,2.99,Healthy Zone,0.44,9.6
+RN,Rio Grande do Norte,485,0.0,9.28,Healthy Zone,0.44,9.6
+ES,Espirito Santo,2033,0.44,10.73,Operational Risk Zone,0.44,9.6
+PA,Para,975,0.41,11.21,Operational Risk Zone,0.44,9.6
+PB,Paraiba,536,0.37,10.44,Operational Risk Zone,0.44,9.6
+TO,Tocantins,280,0.36,9.85,Operational Risk Zone,0.44,9.6
+SE,Sergipe,350,0.29,15.22,Operational Risk Zone,0.44,9.6
+MS,Mato Grosso do Sul,715,0.28,9.7,Operational Risk Zone,0.44,9.6
+AL,Alagoas,413,0.24,21.41,Operational Risk Zone,0.44,9.6
